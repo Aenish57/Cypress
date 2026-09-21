@@ -1,0 +1,13 @@
+node_modules/
+.env
+
+cypress/screenshots/
+cypress/videos/
+
+.vscode/
+coverage/
+dist/
+build/
+
+.DS_Store
+Thumbs.db
